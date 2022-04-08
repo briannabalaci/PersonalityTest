@@ -1,0 +1,100 @@
+E:\11A Sanda\TestPersonalitate(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).exe.config
+E:\11A Sanda\TestPersonalitate(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).exe
+E:\11A Sanda\TestPersonalitate(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).pdb
+E:\11A Sanda\TestPersonalitate(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Form1.resources
+E:\11A Sanda\TestPersonalitate(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Properties.Resources.resources
+E:\11A Sanda\TestPersonalitate(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csproj.GenerateResource.Cache
+E:\11A Sanda\TestPersonalitate(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csproj.CoreCompileInputs.cache
+E:\11A Sanda\TestPersonalitate(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).exe
+E:\11A Sanda\TestPersonalitate(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).pdb
+E:\11A Sanda\TestPersonalitate(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csprojResolveAssemblyReference.cache
+E:\11A Sanda\TestTemperament(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csprojResolveAssemblyReference.cache
+E:\11A Sanda\TestTemperament(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Form1.resources
+E:\11A Sanda\TestTemperament(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Properties.Resources.resources
+E:\11A Sanda\TestTemperament(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csproj.GenerateResource.Cache
+E:\11A Sanda\TestTemperament(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csproj.CoreCompileInputs.cache
+E:\11A Sanda\TestTemperament(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).exe
+E:\11A Sanda\TestTemperament(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).pdb
+E:\11A Sanda\TestTemperament(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).exe.config
+E:\11A Sanda\TestTemperament(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).exe
+E:\11A Sanda\TestTemperament(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).pdb
+E:\11A Sanda\TestTemperament(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.DespreTemperament.resources
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).exe.config
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).exe
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).pdb
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csprojResolveAssemblyReference.cache
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.DespreTemperament.resources
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Properties.Resources.resources
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csproj.GenerateResource.Cache
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.coleric.resources
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).exe
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).pdb
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.flegmatic.resources
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.melancolic.resources
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.sangvinic.resources
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).exe.config
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).exe
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csprojResolveAssemblyReference.cache
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.coleric.resources
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.DespreTemperament.resources
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.flegmatic.resources
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Form1.resources
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.main.resources
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.melancolic.resources
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Properties.Resources.resources
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.sangvinic.resources
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Testul.resources
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Testul22.resources
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Testul3.resources
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csproj.GenerateResource.Cache
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).exe
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).pdb
+D:\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).pdb
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.MainPage.resources
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Test1.resources
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Test2.resources
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Test3.resources
+E:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Rezultat.resources
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).exe.config
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).exe
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).pdb
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csprojResolveAssemblyReference.cache
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.coleric.resources
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.DespreTemperament.resources
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.flegmatic.resources
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.MainPage.resources
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.melancolic.resources
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Properties.Resources.resources
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Rezultat.resources
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.sangvinic.resources
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Test1.resources
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Test2.resources
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Test3.resources
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csproj.GenerateResource.Cache
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csproj.CoreCompileInputs.cache
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).exe
+F:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).pdb
+G:\PROIECTE\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).exe.config
+G:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).exe
+G:\PROIECTE\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).pdb
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).exe.config
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).exe
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).pdb
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).exe
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\bin\Debug\TestPersonalitate(Balaci+Mura).pdb
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csprojResolveAssemblyReference.cache
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.coleric.resources
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.DespreTemperament.resources
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.flegmatic.resources
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.MainPage.resources
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.melancolic.resources
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Properties.Resources.resources
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Rezultat.resources
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.sangvinic.resources
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Test1.resources
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Test2.resources
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate_Balaci_Mura_.Test3.resources
+D:\Brianna\Proiecte\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csproj.GenerateResource.Cache
+D:\TestPersonalitate\TestPersonalitate(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).csprojAssemblyReference.cache
+D:\TestPersonalitate\TestPersonalitate(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).exe
+D:\TestPersonalitate\TestPersonalitate(Balaci+Mura)\TestPersonalitate(Balaci+Mura)\obj\Debug\TestPersonalitate(Balaci+Mura).pdb
